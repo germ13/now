@@ -4,6 +4,10 @@ What I am currently working on in my life.
 ## Personal
 - [ ] [Storage](https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL)
 
+## Dev Learn
+### Spring
+- [ ] [Spring 4 MVC](https://www.youtube.com/watch?v=6Y1dwidNJPQ&feature=em-uploademail)
+
 ## Work Links
 
 ### F#
@@ -19,6 +23,11 @@ What I am currently working on in my life.
 - [ ] [EsLint](https://www.sitepoint.com/up-and-running-with-eslint-the-pluggable-javascript-linter)
 - [ ] [MVA Changes in ES2015](https://mva.microsoft.com/en-US/training-courses/gamechanging-features-in-es2015-16640?l=JA0gw9JrC_2206218965)
 - [ ] [MVA Intro to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
+- [ ] [Writing a Tetris Game in JS](https://www.youtube.com/watch?v=H2aW5V46khA)
+
+# React
+- [ ] [Intro To React](https://www.youtube.com/watch?v=CTRke-_WxUM)
+- [ ] [Building React from Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg)
 
 ### angular
 - [ ] [Egghead - Angular @ Egghead](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component?course=building-angular-2-components)
