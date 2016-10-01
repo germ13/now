@@ -1,6 +1,10 @@
 # now
 What I am currently working on in my life.
 
+## Music
+- [ ] [Neurosis](https://play.spotify.com/album/3haLhyalAjgK386xlKAvKh)
+- [ ] [Megas](https://play.spotify.com/album/6vQvf2LPYeoYdqNh1JAlqC)
+
 ## Personal
 - [ ] [Storage](https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL)
 
