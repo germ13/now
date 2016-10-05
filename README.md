@@ -41,3 +41,24 @@ What I am currently working on in my life.
 - [ ] [Building Angular Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
 - [ ] [Egghead - Angular Forms](https://egghead.io/courses/intro-to-angular-2-forms?utm_source=drip)
 
+## Work
+
+### 32dll in 64dll
+
+http://stackoverflow.com/questions/34819926/using-32-bit-library-from-64-bit-project-net
+
+https://msdn.microsoft.com/en-us/library/f7dy01k1%28v=vs.110%29.aspx?f=255&MSPPError=-2147217396  
+https://msdn.microsoft.com/en-us/library/aa309387%28v=vs.71%29.aspx?f=255&MSPPError=-2147217396
+
+https://blog.mattmags.com/2007/06/30/accessing-32-bit-dlls-from-64-bit-code/
+
+https://dzone.com/articles/what-anycpu-really-means-net
+
+http://forums.codeguru.com/showthread.php?472202-Converting-32-bit-DLL-to-64-bit-DLL
+
+http://www.ntcore.com/exsuite.php
+
+http://www.hanselman.com/blog/BackToBasics32bitAnd64bitConfusionAroundX86AndX64AndTheNETFrameworkAndCLR.aspx
+
+https://mail.google.com/tasks/canvas?pli=1
+
