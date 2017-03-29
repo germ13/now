@@ -1,34 +1,57 @@
 * now
 What I am currently working on in my life.
 
+** Reading List
+
+*** Math 
+- [ ] _The Secret Life of Equations_
+- [ ] _Number Theory_, Watkins
+- [ ] _Prime Numbers and the Riemann Hypothesis_
+- [ ] _Introduction to Topology_
+
+
+*** Dev
+- [ ] _Building Web Cloud and Mobile Solutions With F#_
+- [ ] _Clojure Recipes_
+- [ ] _Living Clojure_
+
+
+*** Philos.
+- [ ] _The Unfettered Mind_
+- [ ] _Sit Like a Buddha_
+- [ ] _Seasons of Mist_
+- [ ] _Buddha of Infinite Light_
+
+
+*** Other
+- [ ] _There Were Giants Upon The Earth_
+
 
 ** Music
-- [ ] [Neurosis](https://play.spotify.com/album/3haLhyalAjgK386xlKAvKh)
-- [ ] [Megas](https://play.spotify.com/album/6vQvf2LPYeoYdqNh1JAlqC)
+- [ ] [[https://play.spotify.com/album/6vQvf2LPYeoYdqNh1JAlqC)][Megas]]
 
 
 ** Personal
-- [ ] [Storage](https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL)
-
+- [ ] [[https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL][Storage]]
 
 
 ** Dev Learn
 
 
 *** Spring
-- [ ] [Spring 4 MVC](https://www.youtube.com/watch?v=6Y1dwidNJPQ&feature=em-uploademail)
+- [ ] [[https://www.youtube.com/watch?v=6Y1dwidNJPQ&feature=em-uploademail][Spring 4 MVC]]
 
 
 ** Work Links
 
 
 *** F*
-- [ ] [F* Framework](http://dotnetrocks.com/?show=1225)
+- [ ] [[http://dotnetrocks.com/?show=1225][F# Frameword]]
 
 
 *** General Link
 - [ ] [Twelve Fancy Dev Tools](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d*.bzscb1qmx)
-
+  
 
 *** typescript
 - [ ] [Typescript 2.0 Released](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/)
@@ -41,7 +64,7 @@ What I am currently working on in my life.
 - [ ] [Writing a Tetris Game in JS](https://www.youtube.com/watch?v=H2aW5V46khA)
 
 
-* React
+n* React
 - [ ] [Intro To React](https://www.youtube.com/watch?v=CTRke-_WxUM)
 - [ ] [Building React from Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg)
 
