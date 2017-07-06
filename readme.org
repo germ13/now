@@ -44,10 +44,15 @@ What I am currently working on in my life.
 
 ** Work Links
 
+*** JWT
+- [ ] [[https://jwt.io/introduction/][JWT Introduction]]
 
 *** F*
 - [ ] [[http://dotnetrocks.com/?show=1225][F# Frameword]]
-
+- [ ] [[https://www.google.com/search?tbo=p&tbm=bks&q=isbn:0735670226][F# for C# Developers]]
+- [ ] [[http://www.fsharpworkshop.com/][F# Workshop]]
+- [ ] [[https://github.com/ChrisMarinos/FSharpKoans#functional-koans---f][FSharpKoans]]
+- [ ] [[http://fsharp.org/learn.html][Learn F# @ fsharp.org]]
 
 *** General Link
 - [ ] [Twelve Fancy Dev Tools](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d*.bzscb1qmx)
