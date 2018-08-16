@@ -35,8 +35,7 @@ What I am currently working on in my life.
 - [ ] [[https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL][Storage]]
 
 
-## Dev Learn
-
+## Dev **Learn**
 
 ### Spring
 - [ ] [[https://www.youtube.com/watch?v=6Y1dwidNJPQ&feature=em-uploademail][Spring 4 MVC]]
@@ -45,7 +44,7 @@ What I am currently working on in my life.
 ## Work Links
 
 ### JWT
-- [ ] [[https://jwt.io/introduction/][JWT Introduction]]
+- [ ] [JWT Introduction](https://jwt.io/introduction/)
 
 ### F#
 - [ ] [[http://dotnetrocks.com/?show=1225][F# Frameword]]
@@ -87,9 +86,5 @@ What I am currently working on in my life.
 ## Work
 
 ### Neon
-- [ ] [Pluralsight WCF Course](https://www.pluralsight.com/blog/tutorials/learning-path-windows-communication-foundation)
 - [ ] [CodeProject ActiveDirectory](https://www.codeproject.com/Articles/18102/Howto-Almost-Everything-In-Active-Directory-via-C#3)
-- [ ] [Hosting WCF Services](https://msdn.microsoft.com/en-us/library/ff649818.aspx#_Step_2:_Configure)
-- [ ] [Worflow Services](https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/workflow-services)
-- [ ] [Difference Between Web Service and WCF](https://www.codeproject.com/Articles/139787/What-s-the-Difference-between-WCF-and-Web-Services)
 
