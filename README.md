@@ -4,35 +4,20 @@ What I am currently working on in my life.
 ## Reading List
 
 ### Math 
-- [ ] _The Secret Life of Equations_
-- [ ] _Number Theory_, Watkins
-- [ ] _Prime Numbers and the Riemann Hypothesis_
-- [ ] _Introduction to Topology_
+- [ ] Linear Algebra (printout)
+- [ ] Algebra (printout)
+- [ ] Math cookbook (pasadena library)
 
 
 ### Dev
-- [ ] _Building Web Cloud and Mobile Solutions With F#_
-- [ ] _Clojure Recipes_
-- [ ] _Living Clojure_
-
-
-### Philos.
-- [ ] _The Unfettered Mind_
-- [ ] _Sit Like a Buddha_
-- [ ] _Seasons of Mist_
-- [ ] _Buddha of Infinite Light_
+- [ ] _Clojure 3rd edition_
 
 
 ### Other
 - [ ] _There Were Giants Upon The Earth_
 
 
-## Music
-- [ ] [[https://play.spotify.com/album/6vQvf2LPYeoYdqNh1JAlqC)][Megas]]
-
-
 ## Personal
-- [ ] [[https://www.publicstorage.com/california/self-storage-los-angeles-ca/90023-self-storage/232?PID=PSLocalSearch&CID=1341&CHID=LL][Storage]]
 
 
 ## Dev **Learn**
@@ -46,12 +31,14 @@ What I am currently working on in my life.
 ### JWT
 - [ ] [JWT Introduction](https://jwt.io/introduction/)
 
+
 ### F#
 - [ ] [[http://dotnetrocks.com/?show=1225][F# Frameword]]
 - [ ] [[https://www.google.com/search?tbo=p&tbm=bks&q=isbn:0735670226][F# for C# Developers]]
 - [ ] [[http://www.fsharpworkshop.com/][F# Workshop]]
 - [ ] [[https://github.com/ChrisMarinos/FSharpKoans#functional-koans---f][FSharpKoans]]
 - [ ] [[http://fsharp.org/learn.html][Learn F# @ fsharp.org]]
+
 
 ### General Link
 - [ ] [Twelve Fancy Dev Tools](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.bzscb1qmx)
@@ -74,7 +61,6 @@ What I am currently working on in my life.
 
 
 ### angular
-
 - [ ] [Egghead - Angular @ Egghead](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component?course=building-angular-2-components)
 - [ ] [Egghead - DI in Angular](https://egghead.io/courses/angular-2-dependency-injection-di-explained?utm_source=drip&utm_medium=email&utm_content=angular-2-di&utm_campaign=angular-2-release)
 - [ ] [Egghead - Angular Router](https://egghead.io/courses/intro-to-angular-2-router?utm_source=drip&utm_medium=email&utm_content=angular-2-routing&utm_campaign=angular-2-release)
@@ -82,8 +68,6 @@ What I am currently working on in my life.
 - [ ] [Building Angular Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
 - [ ] [Egghead - Angular Forms](https://egghead.io/courses/intro-to-angular-2-forms?utm_source=drip)
 
-
-## Work
 
 ### Neon
 - [ ] [CodeProject ActiveDirectory](https://www.codeproject.com/Articles/18102/Howto-Almost-Everything-In-Active-Directory-via-C#3)
